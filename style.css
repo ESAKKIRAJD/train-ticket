@@ -1,0 +1,16 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	background-color: #5cc;
+}
+@media  (min-width:991px)	{
+	
+	.content2{
+		width: 750px;
+	}
+}
+@media  (max-width: 568px)	{
+	h1{
+	   font-size: 28px;
+	   text-align: center;
+	   }
+	}
